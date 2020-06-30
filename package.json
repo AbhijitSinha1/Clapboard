@@ -1,11 +1,20 @@
 {
   "name": "clapboard",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Clapboard: A simple utility to enhance the log information sent out in the application. The logger is initialized as",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "abhijit sinha <sinha.abhijit007@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijitSinha1/Clapboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbhijitSinha1/Clapboard/issues"
+  },
+  "homepage": "https://github.com/AbhijitSinha1/Clapboard#readme",
+  "keywords": ["logging", "node", "console"]
 }

@@ -2,8 +2,10 @@
 
 Clapboard: A simple utility to enhance the log information sent out in the application. The logger is initialized as
 
+```js
 const Logger = require ('clapboard');
 const Log = new Logger ();
+```
 
 and used as
 
